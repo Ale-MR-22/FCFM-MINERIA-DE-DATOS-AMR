@@ -5,3 +5,4 @@ REPOSITIRO PARA TRABAJOS DE MINERIA DE DATOS FCFM-UANL
 
 - [Ejercicio Base de Datos](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/Equipo_9-EjercicioBaseDeDatos.pdf)
 
+- [tarea 1](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/Ej_Python_1844656.ipynb)
