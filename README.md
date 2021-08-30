@@ -7,4 +7,6 @@ REPOSITIRO PARA TRABAJOS DE MINERIA DE DATOS FCFM-UANL
 
 - [tarea 1](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/Ej_Python_1844656.ipynb)
 
-- [Ejercicio limpieza de datos](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/Ej_Limpieza_Equipo_9.ipynb)
+- [Ejercicio limpieza de datos](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/Ej_Limpieza_Equipo_9.ipynb) 
+
+- [Avance PIA](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/Avance1_PIA_Equipo_9.ipynb)
