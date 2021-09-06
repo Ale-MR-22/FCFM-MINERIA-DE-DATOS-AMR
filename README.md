@@ -10,3 +10,5 @@ REPOSITIRO PARA TRABAJOS DE MINERIA DE DATOS FCFM-UANL
 - [Ejercicio limpieza de datos](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/Ej_Limpieza_Equipo_9.ipynb) 
 
 - [Avance PIA](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/Avance1_PIA_Equipo_9.ipynb)
+## Fase II 
+- [Presentacion K Medias]( https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/Presentacion_K-medias_Equipo9.pdf)
