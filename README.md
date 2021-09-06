@@ -12,3 +12,4 @@ REPOSITIRO PARA TRABAJOS DE MINERIA DE DATOS FCFM-UANL
 - [Avance PIA](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/Avance1_PIA_Equipo_9.ipynb)
 ## Fase II 
 - [Presentacion K Medias]( https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/Presentacion_K-medias_Equipo9.pdf)
+- [Codigo K Medias](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/Ejemplo_K-medias_Equipo9.R)
