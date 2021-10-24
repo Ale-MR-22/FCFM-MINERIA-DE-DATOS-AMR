@@ -19,4 +19,4 @@ REPOSITIRO PARA TRABAJOS DE MINERIA DE DATOS FCFM-UANL
 - [Avance 2 PIA Corregido](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/Avance2_PIA_Equipo_9_Corregido.ipynb)
 - [Practica de Tecnica](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/Pr%C3%A1ctica_t%C3%A9cnica_Equipo9.ipynb)
 - [Notebook](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/Notebook_Final_Equipo_9.ipynb)
-- [Poster equipo 9](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/Poster_Mineria.png)
+- [Poster equipo 9](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/Poster_Mineria.pdf)
